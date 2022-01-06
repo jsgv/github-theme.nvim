@@ -1,0 +1,9 @@
+{
+    "name": "github-theme.nvim",
+    "version": "0.0.1",
+    "author": "Jesus Galvan (https://jsgv.io/)",
+    "license": "MIT",
+    "dependencies": {
+        "@primer/primitives": "7.4.0"
+    }
+}
