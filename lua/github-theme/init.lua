@@ -270,6 +270,7 @@ local function code_syntax(theme_name, theme)
 
         NvimTreeGitDirty                   = { fg = color_danger },
         NvimTreeGitStaged                  = { fg = color_success },
+        NvimTreeGitNew                     = { fg = color_warning },
         NvimTreeEmptyFolderName            = { fg = color_default },
         NvimTreeFolderIcon                 = { fg = color_default },
         NvimTreeFolderName                 = { fg = color_default },

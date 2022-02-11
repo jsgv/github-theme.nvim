@@ -4,6 +4,6 @@
     "author": "Jesus Galvan (https://jsgv.io/)",
     "license": "MIT",
     "dependencies": {
-        "@primer/primitives": "7.4.0"
+        "@primer/primitives": "7.4.1"
     }
 }
